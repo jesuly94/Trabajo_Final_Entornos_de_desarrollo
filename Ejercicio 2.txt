@@ -1,3 +1,4 @@
-Ismael Hidalgo Cespedes
+Jesús Rodríguez Burrero 
 
-Ejercicio 2 = Ejercicio2
+Ejercicio 2 = InvertirCadena
+
