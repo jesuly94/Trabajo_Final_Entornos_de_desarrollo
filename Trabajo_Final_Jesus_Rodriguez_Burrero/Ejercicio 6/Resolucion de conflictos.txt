@@ -1,0 +1,8 @@
+Ejercicio 6. (Parejas)
+
+Entre los dos compañeros tendréis que generar a posta varios conflictos, solucionarlos y volver
+a subir a git con el comentario “Resolución de conflictos”. En el historial de comandos de git
+deberá observarse que, efectivamente, el fichero subido resuelve un conflicto creado
+anteriormente.
+
+Entre Ismael y Jesús Subiremos varios archivos con el mismo nombre y actulizaciones diferentes para generar varios conflictos y se hará un commit para dejar constancia de los conflictos resueltos.
